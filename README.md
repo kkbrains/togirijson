@@ -6,8 +6,8 @@ To Enable AWS CORS ORIGIN https://docs.aws.amazon.com/AmazonS3/latest/user-guide
 Clone and run $ npm install --save
 
 # Step 2: 
-Run nodejs server $ node index.js
+Run nodejs server $ node index.js, that should run a server on port 8080
 
 # Step 3:
 If you are using vscode, run the index.html using 
-lite server it opens up a temporary server and execute the script.js. You can see the result
+lite server it opens up a temporary server and execute the script.js. You can see the result on the console.
