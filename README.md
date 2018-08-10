@@ -1,5 +1,5 @@
 # togirijson
-To Enable AWS CORS ORIGIN https://docs.aws.amazon.com/AmazonS3/latest/dev/ManageCorsUsingConsole.html
+To Enable AWS CORS ORIGIN https://docs.aws.amazon.com/AmazonS3/latest/user-guide/add-cors-configuration.html, Since its not enabled we are setting up a server locally and using our setting our server to use CORS.
 
 # Step 1:
 
