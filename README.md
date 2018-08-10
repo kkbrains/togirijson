@@ -1,4 +1,5 @@
 # togirijson
+To Enable AWS CORS ORIGIN https://docs.aws.amazon.com/AmazonS3/latest/dev/ManageCorsUsingConsole.html
 
 # Step 1:
 
